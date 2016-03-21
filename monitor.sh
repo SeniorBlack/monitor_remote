@@ -1,3 +1,4 @@
+echo "cpu and memory monitor"
 echo "aw-p2pmgr_cpu(%),aw-p2pmgr_mem(%),udpproxy_cpu(%),udpproxy_mem(%)" >> moni.log
 while true
 do
